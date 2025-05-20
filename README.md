@@ -13,7 +13,17 @@ Quick access to:
 - Meeting scheduler
 
 Powered by Rich and Questionary for an interactive and visually appealing experience 
-
+```
+cli-card/
+├── rohith/                  
+│   ├── __init__.py          
+│   └── cli.py               # main logic
+├── README.md                
+├── LICENSE                  
+├── pyproject.toml           # Python build config
+├── setup.cfg                # Project metadata and dependencies
+├── setup.py (optional)
+```
 ## Installation
 You can run this CLI tool instantly without installing anything globally:
 ```
