@@ -101,7 +101,7 @@ def menu():
         console.print("\n[bold yellow]Downloading your resume...[/bold yellow]")
 
         url = "https://docs.google.com/document/d/1RD3D1lg4DxV6RaEjaI4dia5OPP2NcT2oaYpP3BlwfcE/export?format=pdf"
-        filename = "Rohit_Gowda_Resume.pdf"
+        filename = "Resume.pdf"
 
         try:
             r = requests.get(url)
