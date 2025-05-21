@@ -14,7 +14,7 @@ Quick access to:
 
 Powered by Rich and Questionary for an interactive and visually appealing experience 
 ```
-cli-card/
+rohith/
 ├── rohith/                  
 │   ├── __init__.py          
 │   └── cli.py               # main logic
