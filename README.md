@@ -1,4 +1,5 @@
-# 📦 rohith (CLI Tool)
+# 📦 rohith (CLI Tool) [![PyPI version](https://badge.fury.io/py/rohith.svg)](https://pypi.org/project/rohith/)
+
 
 rohith is a simple and elegant command-line portfolio card. It lets you display your professional bio, links to your social profiles, and options like downloading your resume, contacting you via Formspree, or scheduling a meeting — all directly from the terminal.
 
@@ -13,6 +14,8 @@ Quick access to:
 - Meeting scheduler
 
 Powered by Rich and Questionary for an interactive and visually appealing experience 
+
+---
 ```
 rohith/
 ├── rohith/                  
@@ -24,6 +27,14 @@ rohith/
 ├── setup.cfg                # Project metadata and dependencies
 ├── setup.py (optional)
 ```
+---
+## 📦 Published on PyPI
+
+[![PyPI version](https://badge.fury.io/py/rohith.svg)](https://pypi.org/project/rohith/)
+
+This package is published on [PyPI](https://pypi.org/project/rohith/)
+
+---
 ## Installation
 You can run this CLI tool instantly without installing anything globally:
 ```
@@ -45,3 +56,7 @@ Then simply run:
 rohith
 ```
 ---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
