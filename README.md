@@ -57,6 +57,8 @@ rohith
 ```
 ---
 
-## 📝 License
+> **Important Notice:**  
+> This project is licensed under the [MIT License](LICENSE).  
+> According to the license terms, any redistribution (including compiled or modified versions), you **must** retain the original copyright
+> notice and the full license text. Copyright © 2025 Rohith Gowda R. All rights reserved.
 
-This project is licensed under the [MIT License](LICENSE).
